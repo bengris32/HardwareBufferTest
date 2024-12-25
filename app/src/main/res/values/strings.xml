@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">HardwareBufferTest</string>
+    <string name="string_ok">ok!</string>
+</resources>
